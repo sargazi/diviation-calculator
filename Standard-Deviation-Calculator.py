@@ -25,11 +25,11 @@ def calculate(list):
            (matrix.flatten().sum())]
 
     calculations = {
-        "mean": mean,
-        "variance": var,
-        "standard deviation": std,
-        "max": max,
-        "min": min,
-        "sum": sum,
+        "Mean": mean,
+        "Variance": var,
+        "Standard Deviation": std,
+        "Maximum": max,
+        "Minimum": min,
+        "Sum": sum,
     }
     return calculations
